@@ -2,6 +2,7 @@
 
 ## Setup 
 npm init
+
 npm install axios
 
 ## Notes
