@@ -1,0 +1,3 @@
+I followed along with the solutions for the majority of this
+exercise as I didn't really understand the prompts or syntax. 
+I'd like to review in next mentor meeting.
